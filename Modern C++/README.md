@@ -1,6 +1,7 @@
 # Modern C++ (C++11/14/17)
-Taught by Umar Lone
-Total course length: 19 hours 50 min
+Taught by <b>Umar Lone</b>
+
+Total course length: 20 hours 
 <hr>
 ## Course Content I've covered
 
