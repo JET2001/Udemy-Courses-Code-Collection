@@ -9,4 +9,4 @@ I will be uploading my work on Udemy into this repository.
 - Design Patterns in Modern C++ | Taught by Dmitri Nesteruk | Progress: 5%
 
 ---
-Last updated: 2/11/21
+Last updated: 2 November 2021
