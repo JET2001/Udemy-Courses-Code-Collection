@@ -4,7 +4,7 @@ Taught by <b>Umar Lone</b>
 Total course length: 20 hours 
 <hr>
 
-## Course Content I've covered
+## Course Content I've covered so far
 (PS: This course is really really dry. The instructor is really really good at explaining things, but every lecture is so abstract and so dense that requires some supernatural concentration to follow along.)
 
 
