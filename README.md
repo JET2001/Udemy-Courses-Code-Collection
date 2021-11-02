@@ -8,5 +8,5 @@ I will be uploading my work on Udemy into this repository.
 - iOS & Swift - The Complete iOS App Development Bootcamp | Taught by Dr Angela Yu | Progress: 5%
 - Design Patterns in Modern C++ | Taught by Dmitri Nesteruk | Progress: 5%
 
-<hr>
+<hline>
 Last updated: 2nd Nov 2021
