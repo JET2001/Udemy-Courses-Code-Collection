@@ -1,8 +1,7 @@
 # Modern C++ (C++11/14/17)
 Taught by <b>Umar Lone</b>
 
-Total course length: 20 hours 
-Started on: 11 August 2021
+Total course length: 20 hours | Started on: 11 August 2021
 <hr>
 
 ## Course Content I've covered so far
