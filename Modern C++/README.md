@@ -2,6 +2,7 @@
 Taught by <b>Umar Lone</b>
 
 Total course length: 20 hours 
+Started on: 11 August 2021
 <hr>
 
 ## Course Content I've covered so far
