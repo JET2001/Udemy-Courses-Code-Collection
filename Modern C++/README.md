@@ -3,6 +3,7 @@ Taught by <b>Umar Lone</b>
 
 Total course length: 20 hours 
 <hr>
+
 ## Course Content I've covered
 
 1. Basic Language Facilities (which covered basic syntax and also the following):
